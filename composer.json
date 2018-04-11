@@ -1,0 +1,20 @@
+{
+  "name": "3pl0_helpers/url_helper",
+  "description": "Test composer package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "3plo",
+      "email": "bplotka.1996@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.9"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
